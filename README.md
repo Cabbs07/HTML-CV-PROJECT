@@ -17,3 +17,5 @@ USAGE:
 - Personal Portfolio
 - Job Application
 - SEO & OG Practice
+
+https://roadmap.sh/projects/single-page-cv

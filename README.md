@@ -18,4 +18,5 @@ Learning how to write Semantic HTML, SEO Meta Tags, Open Graph (OG) Tags. Favico
 - Job Application
 - SEO & OG Practice
 
-# THE ROADMAP URL (https://roadmap.sh/projects/single-page-cv)
+# THE ROADMAP URL:
+(https://roadmap.sh/projects/single-page-cv)
